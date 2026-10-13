@@ -1,0 +1,16 @@
+{
+  "id": "/chat",
+  "name": "NexaChat — Chat smarter. Do more.",
+  "short_name": "NexaChat",
+  "description": "A calmer, more thoughtful place for your conversations and the work that follows.",
+  "start_url": "/chat",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f7f8fc",
+  "theme_color": "#6366f1",
+  "categories": ["social", "productivity"],
+  "icons": [
+    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

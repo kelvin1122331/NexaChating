@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+/public/sw.js
+/public/workbox-*.js
+tsconfig.tsbuildinfo
+coverage/
+playwright-report/
+test-results/
+.env*
+!.env.local.example
+.vercel/
+.DS_Store
+*.log
